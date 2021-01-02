@@ -11,3 +11,5 @@ reccomended input of 0.0001~0.001 failure rate
 reccomended input of any iteration times 
 
 press run
+
+![gif of the program running](https://github.com/longchass/images/blob/master/artvsrt.gif)
